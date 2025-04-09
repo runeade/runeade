@@ -1,4 +1,4 @@
-![Header](https:capsule-rander.vercal.app/api?type=waving&height=300&text=Hello%20Evereone!&color=blue)
+![Header](https:capsule-rander.vercal.app/api?type=waving&height=300&text=Hello%20Evereone!&color=#00ffff)
 
 ## Name: 이준영
 
